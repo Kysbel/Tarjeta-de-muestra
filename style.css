@@ -150,7 +150,8 @@ color: white;
 
 .Whatsapp:hover{
 /* color: rgb(114, 201, 27); */
-background-color: rgb(201, 217, 204);
+color: #FF3131;
+/* background-color: rgb(201, 217, 204); */
 }
 
 .llamada{
@@ -167,8 +168,7 @@ cursor: pointer;
 }
 
 .llamada:hover{
-color: rgb(114, 201, 27);
-background-color: rgb(201, 217, 204);
+color:#FF3131;
 }
 
 .ubicación{
@@ -183,8 +183,7 @@ cursor: pointer;
 }
 
 .ubicación:hover{
-color: rgb(114, 201, 27);
-background-color: rgb(201, 217, 204);
+color: #FF3131;
 }
 
 iframe{
