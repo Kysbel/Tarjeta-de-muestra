@@ -136,10 +136,10 @@ margin: auto;
 border: 2px;
 border-radius: 20px;
 padding: 8px;
-background-color: rgb(9, 54, 133);
+background-color:#FFDE59;
 font-size: 20px;
 cursor: pointer;
-color: white;
+color:  #001250;
 }    
 
 .Whatsapp:hover{
@@ -153,8 +153,8 @@ border: 2px;
 border-radius: 20px;
 padding: 8px;
 /* background-color: antiquewhite; */
-background-color:  rgb(9, 54, 133);
-color: white;
+background-color: #FFDE59;
+color:  #001250;
 font-size: 20px;
 margin-top: 15px;
 cursor: pointer;
@@ -169,8 +169,8 @@ color:#FF3131;
 border: 2px;
 border-radius: 20px;
 padding: 8px;
-background-color:  rgb(9, 54, 133);
-color: white;
+background-color:#FFDE59;
+color:  #001250;
 font-size: 20px;
 margin-top: 15px;
 cursor: pointer;
@@ -208,8 +208,8 @@ height: auto;
 margin-top: 25px;
 text-align: center;
 /* background-color: rgb(80, 255, 162);  */
-background-color: #001250;
-color: white;
+background-color:#FFDE59 ;
+color: #001250;
 /* margin-top: 65px; */
 
 }
@@ -223,5 +223,6 @@ a{
 }
 
 footer:hover{
-background-color: rgb(240, 197, 41);
+background-color:  #001250;
+color: white;
 }
